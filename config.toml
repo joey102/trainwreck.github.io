@@ -1,0 +1,4 @@
+baseURL = "https://trainwreck.gg"
+languageCode = "en-us"
+title = "Welcome to the Trainwreck Community"
+theme="potato-dark"
